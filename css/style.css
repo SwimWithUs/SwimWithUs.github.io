@@ -263,7 +263,7 @@ h3{
 	padding:20px;
 
 }
-.btn1{
+.btn1 {
 	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
     text-decoration: none;
     padding: 15px;
@@ -273,10 +273,10 @@ h3{
     height:70px;
     color: white;
     background-color: #0D0B2E;
-    
-
-    
+   
   }
+
+
 .btn1:hover{
 	padding:20px;
 

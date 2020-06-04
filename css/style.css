@@ -1,0 +1,297 @@
+body{
+	background-image: linear-gradient(#9DD5FA, #C3E2F9, #81B4FA);
+	margin: 20px;
+	color: font-size:15px;;
+	padding:30px;
+	margin: 20px;
+	border: 4px solid #0D0B2E;
+
+
+
+}
+header{
+	background-color: #0D0B2E; 
+	color: white; 
+	font-family:The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	font-size: 35px;
+	letter-spacing: 0.15em;
+	padding: 20px;
+	padding-bottom: 10px;
+
+}
+#home nav{
+
+	background-color:#0D0B2E ;
+	color: white;
+
+}
+#home nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+
+
+}
+#home nav li a{
+	text-decoration: none;
+	color: white;
+	padding:20px;
+	letter-spacing: 0.15em;
+	font-family:The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+    
+}
+#home nav li{
+	display: inline-block;
+	padding:15px;
+
+
+}
+
+#home nav li:hover{
+	background-color:grey;
+
+
+
+}
+
+h2{
+	color: #0D0B2E;
+	text-align: center;
+	font-family:  The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	font-size: 35px;
+}
+.HOME a{
+	text-decoration: none;
+	color: white;
+}
+
+.HOME1{
+	text-decoration: none;
+	color: white;
+}
+#text{
+	text-align: center;
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	font-size: 25px;
+	padding-left: 150px;
+	padding-right:150px;
+	
+}
+#benessere{
+	color: #0D0B2E;
+	text-align: left;
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	
+}
+#elencobenessere{
+	font-family:The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	text-align: left;
+	padding-right: 150px;
+	padding-left: 150px;
+	
+}
+#benefico{
+	text-align: left;
+	font-family:  The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size: 17px;
+
+}
+.imag{
+	border:10px; 
+	padding-right: 150px;
+	padding-left: 150px;
+	width: 500px;
+	
+}
+#scuolanuoto{
+	text-align: left;
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size: 18px;
+	
+}
+h3{ 
+	font-family:  The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size: 25px;
+	color:#0D0B2E;
+
+
+}
+#istruttore{
+
+	text-align: left;
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:17px;
+
+}
+#piccini{
+	
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#lista1{
+    font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 190px;
+	padding-left: 190px;
+	font-size:16px;
+	text-align: left;
+	
+}
+ #apprendimento{
+ 	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#terzolivello{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#lista2{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 190px;
+	padding-left: 190px;
+	font-size:16px;
+}
+
+#quartolivello{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+
+}
+#lista3{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 190px;
+	padding-left: 190px;
+	font-size:16px;
+
+}
+#quintolivello{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#lista4{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 190px;
+	padding-left: 190px;
+	font-size:16px;
+}
+#conclusione{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#adulti{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:18px;
+}
+#principiante{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#intermedio{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#avanzato{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:16px;
+}
+#istruttoreadulti{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:17px;
+
+}
+#agonismo{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:17px;
+}
+#foto{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+#testoagonismo{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size:17px;
+ }
+.btn{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+    text-decoration: none;
+    padding: 15px;
+    border:1px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height:70px;
+    color: white;
+    background-color: #0D0B2E;
+
+}
+
+.btn:hover{
+	padding:20px;
+
+}
+.btn1{
+	font-family: The Quick Brown Fox Jumps Over The Lazy Dog, Optima, sans-serif;
+    text-decoration: none;
+    padding: 15px;
+    border:1px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height:70px;
+    color: white;
+    background-color: #0D0B2E;
+    
+
+    
+  }
+.btn1:hover{
+	padding:20px;
+
+	
+
+}
+footer{
+	margin: 20px;
+	text-align: center;
+	border-top:1px solid black;
+	padding-top: 30px;
+
+}
+
+  
+
+
+
